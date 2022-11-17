@@ -1,7 +1,7 @@
 // NIM              : 18221157
 // Nama             : Cathleen Lauretta
 // Tanggal          : 18 September 2022
-// Topik praktikum  : Pra-Praktikum 2 - ADT, Pointer dan Array Dinamik
+// Topik praktikum  : Pra-Praktikum 3 - ADT, Pointer dan Array Dinamik
 // Deskripsi        : Program yang membuat implementasi dari point.h
 
 #include <stdio.h>

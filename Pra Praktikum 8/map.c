@@ -1,6 +1,6 @@
 // NIM              : 18221157
 // Nama             : Cathleen Lauretta
-// Tanggal          : 22 Oktober 2022
+// Tanggal          : 29 Oktober 2022
 // Topik praktikum  : Pra-Praktikum 8 - Set & Map Hash
 // Deskripsi        : Program yang membuat implementasi dari map.h
 
